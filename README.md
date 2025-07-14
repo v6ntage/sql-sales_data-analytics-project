@@ -22,24 +22,5 @@ The goal of this project is to perform a detailed exploration of sales data to e
 	- Running total of sales over time.
    
 # 🛠️ Technologies Used
-- SQL – for data extraction, cleaning, transformation, and analysis
+- SQL & SSMS – for data extraction, cleaning, transformation, and analysis
 
-- Tableau – for building interactive dashboards and visual storytelling
-
-# 📈 Tableau Dashboard
-An interactive sales dashboard has been developed using Tableau, featuring:
-
-- **KPI Overview**
-	- Display a summary of total sales, profits and quantity for the current year and the previous year.
-- **Sales Trends**
-	- Present the data for each KPI on a monthly basis for both the current year and the previous year.
-	- Identify months with highest and lowest sales and make them easy to recognize.
-- **Product Subcategory Comparison**
-	- Compare sales performance by different product subcategories for the current year and the previous year.
-	- Include a comparison of sales with profit.
-- **Weekly Trends for Sales & Profit**
-	- Present weekly sales and profit data for the current year.
-	- Display the average weekly values.
-	- Highlight weeks that are above and below the average to draw attention to sales & profit performance.
-
-🖼️ Screenshot previews available in /visualizations
